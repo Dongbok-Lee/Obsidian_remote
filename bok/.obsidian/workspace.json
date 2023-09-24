@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "dabdc08d83b6997c",
+            "id": "d32ad78f25438cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "첫번째 파일.md",
-                "mode": "preview",
+                "file": "자바/람다와 스트림.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "첫번째 파일.md",
+                "file": "자바/람다와 스트림.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "첫번째 파일.md",
+                "file": "자바/람다와 스트림.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "첫번째 파일.md"
+                "file": "자바/람다와 스트림.md"
               }
             }
           }
@@ -155,8 +155,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dabdc08d83b6997c",
+  "active": "25f59f4220c72f7b",
   "lastOpenFiles": [
-    "첫번째 파일.md"
+    "자바.md",
+    "자바/람다와 스트림.md",
+    "자바"
   ]
 }
